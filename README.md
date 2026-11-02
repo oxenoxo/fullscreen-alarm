@@ -2,7 +2,7 @@
 
 到点**铺满整个屏幕**，但**不发出任何声音**的 macOS 闹钟。
 
-![](docs/overlay.png)
+<img src="docs/overlay.png" width="780" alt="全屏效果">
 
 ## 它解决什么问题
 
@@ -24,9 +24,11 @@
 - **多条闹钟** — 列表管理，可单独开关
 - **原生 Swift** — 1.5 MB，没有 Electron，没有第三方依赖
 
-| 主窗口 | 图标 |
-|---|---|
-| ![](docs/window.png) | ![](docs/icon.png) |
+<p>
+  <img src="docs/window.png" width="330" alt="主窗口">
+  &nbsp;&nbsp;
+  <img src="docs/icon.png" width="150" alt="图标">
+</p>
 
 ## 安装
 
